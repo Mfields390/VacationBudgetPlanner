@@ -1,0 +1,13 @@
+C:\Users\Mickey\source\repos\VacationPlanner\VacationPlanner\bin\Debug\netcoreapp3.1\VacationPlanner.exe
+C:\Users\Mickey\source\repos\VacationPlanner\VacationPlanner\bin\Debug\netcoreapp3.1\VacationPlanner.deps.json
+C:\Users\Mickey\source\repos\VacationPlanner\VacationPlanner\bin\Debug\netcoreapp3.1\VacationPlanner.runtimeconfig.json
+C:\Users\Mickey\source\repos\VacationPlanner\VacationPlanner\bin\Debug\netcoreapp3.1\VacationPlanner.runtimeconfig.dev.json
+C:\Users\Mickey\source\repos\VacationPlanner\VacationPlanner\bin\Debug\netcoreapp3.1\VacationPlanner.dll
+C:\Users\Mickey\source\repos\VacationPlanner\VacationPlanner\bin\Debug\netcoreapp3.1\VacationPlanner.pdb
+C:\Users\Mickey\source\repos\VacationPlanner\VacationPlanner\obj\Debug\netcoreapp3.1\VacationPlanner.csprojAssemblyReference.cache
+C:\Users\Mickey\source\repos\VacationPlanner\VacationPlanner\obj\Debug\netcoreapp3.1\VacationPlanner.AssemblyInfoInputs.cache
+C:\Users\Mickey\source\repos\VacationPlanner\VacationPlanner\obj\Debug\netcoreapp3.1\VacationPlanner.AssemblyInfo.cs
+C:\Users\Mickey\source\repos\VacationPlanner\VacationPlanner\obj\Debug\netcoreapp3.1\VacationPlanner.csproj.CoreCompileInputs.cache
+C:\Users\Mickey\source\repos\VacationPlanner\VacationPlanner\obj\Debug\netcoreapp3.1\VacationPlanner.dll
+C:\Users\Mickey\source\repos\VacationPlanner\VacationPlanner\obj\Debug\netcoreapp3.1\VacationPlanner.pdb
+C:\Users\Mickey\source\repos\VacationPlanner\VacationPlanner\obj\Debug\netcoreapp3.1\VacationPlanner.genruntimeconfig.cache
